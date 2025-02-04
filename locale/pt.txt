@@ -8,14 +8,14 @@ LinkBehaviour_F9990D8F_E5D8_84A9_41D3_E6CD233AF470.source = https://g.co/kgs/RXV
 LinkBehaviour_CF3BED8F_E548_8490_419D_14A4DCE30F2E.source = https://g.co/kgs/tcfEhwL
 LinkBehaviour_CF3B2D8F_E548_8490_41EC_51543948CEF5.source = https://maps.app.goo.gl/C2TKEsfBiadbdaMWA
 LinkBehaviour_F8C7AC13_E5D8_8BB9_41E7_14CE4624BC0B.source = https://maps.app.goo.gl/C2TKEsfBiadbdaMWA
-LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
-LinkBehaviour_B852FF7B_E2EA_36DE_41DD_FF542309EFF2.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
 LinkBehaviour_CECE15E5_E548_8490_41E4_01B138092339.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_B852FF7B_E2EA_36DE_41DD_FF542309EFF2.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
 LinkBehaviour_CE86D21D_E548_BFB3_41DC_F984B4CB436C.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
 LinkBehaviour_CECE45E6_E548_8490_41D0_21DC1B2A5B42.source = https://wa.me/5553999413181?text=Ol%C3%A1!%20Bem-vindo%20ao%20CL%C3%83%20-%20Cerveja%2C%20larica%20e%20arte!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
 LinkBehaviour_F88F074D_E5D8_85AE_41B2_4381EE197513.source = https://www.facebook.com/clacervejalaricaearte/
-LinkBehaviour_F8A2B986_E5D9_8C9A_41CA_30E7CB7DD0EC.source = https://www.instagram.com/restaurante.docheff/
 LinkBehaviour_CEC42D8E_E548_8490_41E8_F24D5AE2711E.source = https://www.instagram.com/restaurante.docheff/
+LinkBehaviour_F8A2B986_E5D9_8C9A_41CA_30E7CB7DD0EC.source = https://www.instagram.com/restaurante.docheff/
 
 ## Media
 
