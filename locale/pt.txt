@@ -1,0 +1,66 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_C5F5E70B_E5C8_85AA_41EB_778CD1B052B3.source = https://contate.me/restaurante-do-cheff
+LinkBehaviour_F9990D8F_E5D8_84A9_41D3_E6CD233AF470.source = https://g.co/kgs/RXVvi2X
+LinkBehaviour_CF3BED8F_E548_8490_419D_14A4DCE30F2E.source = https://g.co/kgs/tcfEhwL
+LinkBehaviour_CF3B2D8F_E548_8490_41EC_51543948CEF5.source = https://maps.app.goo.gl/C2TKEsfBiadbdaMWA
+LinkBehaviour_F8C7AC13_E5D8_8BB9_41E7_14CE4624BC0B.source = https://maps.app.goo.gl/C2TKEsfBiadbdaMWA
+LinkBehaviour_CCBE9D9A_E4F1_F1B9_41EA_2470451CB540.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_B852FF7B_E2EA_36DE_41DD_FF542309EFF2.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_CECE15E5_E548_8490_41E4_01B138092339.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_CE86D21D_E548_BFB3_41DC_F984B4CB436C.source = https://search.google.com/local/writereview?placeid=ChIJazHcfQCxjZQRtJUyDxz022w
+LinkBehaviour_CECE45E6_E548_8490_41D0_21DC1B2A5B42.source = https://wa.me/5553999413181?text=Ol%C3%A1!%20Bem-vindo%20ao%20CL%C3%83%20-%20Cerveja%2C%20larica%20e%20arte!%20Estamos%20muito%20contentes%20em%20atend%C3%AA-lo.%20Para%20iniciarmos%20o%20atendimento%2C%20voc%C3%AA%20poderia%20nos%20dizer%20seu%20nome%2C%20por%20gentileza%3F
+LinkBehaviour_F88F074D_E5D8_85AE_41B2_4381EE197513.source = https://www.facebook.com/clacervejalaricaearte/
+LinkBehaviour_F8A2B986_E5D9_8C9A_41CA_30E7CB7DD0EC.source = https://www.instagram.com/restaurante.docheff/
+LinkBehaviour_CEC42D8E_E548_8490_41E8_F24D5AE2711E.source = https://www.instagram.com/restaurante.docheff/
+
+## Media
+
+### Audio
+audiores_C3C89A94_D228_0038_41E2_AEEE3D811CBD.mp3Url = media/audio_C005ED74_D228_00F9_41BA_6CCC9A0DF747_pt.mp3
+audiores_F7BED8F9_E848_4964_41DC_6234D4F900EC.mp3Url = media/audio_E77F58C5_E849_C9A9_41E3_29FDD98F8CE1_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_DDFD0112_CC32_DFFB_41D3_503BE87CDBE8.label = _MGT1921-HDR Panorama
+panorama_DD0EDDA3_CC32_C6D9_41E7_7F51703C2F91.label = _MGT1933-HDR Panorama
+panorama_DD0C69AB_CC32_CE28_41D1_012CC77963F8.label = _MGT1945-HDR Panorama
+panorama_DD0DE650_CC32_C277_41E8_ECC122D59D17.label = _MGT1957-HDR Panorama
+panorama_DD0DF28D_CC32_42E9_41DD_F38D63142F76.label = _MGT1969-HDR Panorama
+panorama_DD0D4F0C_CC32_43E8_41D5_CECC70A73EE4.label = _MGT1984-HDR Panorama
+panorama_DD0D0B6C_CC32_422F_41CA_B662FADFC6BD.label = _MGT1996-HDR Panorama
+panorama_DD0D582C_CC32_4E2F_4192_46088481A739.label = _MGT2014-HDR Panorama
+panorama_DD0D75C1_CC32_4659_41E0_E14ACCFAE68B.label = _MGT2026-HDR Panorama
+panorama_DD0CC2CB_CC33_C269_41E8_ECF2C9BEF82B.label = _MGT2041-HDR Panorama
+panorama_DD0CAFCE_CC33_C26B_41A9_C22AA0C14AC1.label = _MGT2053-HDR Panorama
+panorama_DD0F0DEF_CC33_C629_41C2_9909BFC437BE.label = _MGT2065-HDR Panorama
+panorama_DD0C59C3_CC33_CE59_41E3_3FE109AB2389.label = _MGT2077-HDR Panorama
+panorama_DD0CF5B2_CC33_C63B_41E0_7AC222EEBEDA.label = _MGT2089-HDR Panorama
+
+## Skin
+
+### Button
+Button_C5F7570B_E5C8_85AA_41CF_097737A971D4_mobile.label = Chame no Whatsapp
+Button_C5F7570B_E5C8_85AA_41CF_097737A971D4.label = Chame no Whatsapp
+Button_FB55027E_E331_B378_41EB_F49CBD998544.label = Nos Avalie no Google
+Button_FB55027E_E331_B378_41EB_F49CBD998544_mobile.label = Nos Avalie no Google
+
+### Image
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_mobile_pt.png
+Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48.url = skin/Image_741CEBB9_79A5_6D9D_41D3_736A7C238B48_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_mobile_pt.png
+Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD.url = skin/Image_7640858A_79A5_1A7F_41CD_943F6B58F7AD_pt.png
+Image_C4C4A680_E5C7_8496_41D6_48658E550AB2_mobile.url = skin/Image_C4C4A680_E5C7_8496_41D6_48658E550AB2_mobile_pt.png
+Image_C4C4A680_E5C7_8496_41D6_48658E550AB2.url = skin/Image_C4C4A680_E5C7_8496_41D6_48658E550AB2_pt.png
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao Tour Virtual 360º
+
+### Title
+tour.name = Restaurante do CHEFF
